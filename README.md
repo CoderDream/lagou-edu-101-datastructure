@@ -4,3 +4,5 @@
 
 
 [MinGW-w64 离线包安装方法](https://blog.csdn.net/weixin_36466834/article/details/119569365)
+
+[MinGW-w64离线安装，测试可用](https://blog.csdn.net/ZHAOJUNWEI08/article/details/86602120)
